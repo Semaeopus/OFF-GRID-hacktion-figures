@@ -3,6 +3,10 @@
 
 These models are a work in progress and how only had a first pass print test, please feel free to improve upon them!
 
+We advise that you look at how to 3D print to the specifications that you want; mainly height.
+
+We have provided files with and without bases. Those models without bases are untested and very unlikely to be able to stand without a base.
+
 ### These models are provided under Creative Commons CC BY-NC-SA 4.0
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
